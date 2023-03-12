@@ -4,7 +4,7 @@ Dựa trên dữ liệu của ngân hàng Ấn Độ phân tích rủi ro trong 
 ### THÀNH VIÊN
 Nhóm NIHGI gồm các thành viên:
 
-<img src='pic/1.jpg' align='right' width='21%' height='21%'></img>
+<img src='pic/1.jpg' align='right' width='16%' height='16%'></img>
 <div style='display:flex;'>
 
 - Nguyễn Đặng Trường An
