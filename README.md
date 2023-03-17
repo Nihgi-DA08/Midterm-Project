@@ -1,6 +1,18 @@
 # MIDTERM PROJECT
 Dựa trên dữ liệu của ngân hàng Ấn Độ phân tích rủi ro trong việc cho vay.
 
+## HÌNH ẢNH DEMO
+<p align="center">
+<img src='pic/0.jpg'></img>
+</p>
+
+## CODE DEMO
+```python
+# Try parse to number
+def try_prs_int(s):
+    return pd.to_numeric(s, errors='coerce').astype('Int64')
+```
+
 ### THÀNH VIÊN
 Nhóm NIHGI gồm các thành viên:
 
